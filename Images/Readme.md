@@ -1,1 +1,1 @@
-This file contains an image of the external and internal view of the wing for those who dont have solidworks installed. Bonus: I have also included a pciture of the complete aircraft desgign which I made:).
+This file contains an image of the external and internal view of the wing for those who dont have solidworks installed.:).
