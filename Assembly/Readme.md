@@ -1,0 +1,1 @@
+This folder contains the complete assembly and sub-assemblies of the wing. To view this one needs the Solidworks Software installed, then first he/she needs to download all the parts of the wing, then he/she can view the whole assembly in the software. 
